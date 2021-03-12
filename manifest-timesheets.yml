@@ -11,4 +11,4 @@ applications:
   services:
   - tracker-timesheets-database
   - tracker-service-registry
-  - traker-sso
+  - tracker-sso
